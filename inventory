@@ -1,0 +1,7 @@
+[all:vars]
+ansible_user=#isi_username
+ansible_ssh_private_key_file=#arahkan_ke_directory_ssh 
+
+[webserver]
+#isi_ip_address_anda 
+
